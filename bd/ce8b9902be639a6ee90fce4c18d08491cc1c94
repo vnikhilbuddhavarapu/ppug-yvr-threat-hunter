@@ -1,0 +1,29 @@
+AGENTS.md
+  s_021c12b20a1c5e::t_25e7336f231dd3 1
+README.md
+  s_021c12b20a1c5e::t_7b5a99187af488 1,10,50-51
+package-lock.json
+  s_021c12b20a1c5e::t_d7b6c2160f5184 2,8
+package.json
+  s_021c12b20a1c5e::t_6028b7e489d47c 2
+src/app.ts
+  s_021c12b20a1c5e::t_fe55e31235d5c2 12-13
+wrangler.jsonc
+  s_021c12b20a1c5e::t_4d5a93e96e369a 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "bdce8b9902be639a6ee90fce4c18d08491cc1c94",
+  "prompts": {},
+  "sessions": {
+    "s_021c12b20a1c5e": {
+      "agent_id": {
+        "tool": "windsurf",
+        "id": "zany-bayberry",
+        "model": "unknown"
+      },
+      "human_author": "Nikhil <vnikhilbuddhavarapu@outlook.com>"
+    }
+  }
+}
