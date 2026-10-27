@@ -1,0 +1,21 @@
+src/intel/analysis.ts
+  s_6d46aa31e1e839::t_dcd7410fde7fe6 225-228
+test/intel.test.ts
+  s_6d46aa31e1e839::t_56500104b9708f 130-133
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "9a01d0ca9347ec9214540360e1123c18e8cc0a86",
+  "prompts": {},
+  "sessions": {
+    "s_6d46aa31e1e839": {
+      "agent_id": {
+        "tool": "devin",
+        "id": "s_6d46aa31e1e839",
+        "model": "unknown"
+      },
+      "human_author": "Nikhil <vnikhilbuddhavarapu@outlook.com>"
+    }
+  }
+}
