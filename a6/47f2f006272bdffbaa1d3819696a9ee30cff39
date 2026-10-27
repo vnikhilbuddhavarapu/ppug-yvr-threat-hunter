@@ -1,0 +1,19 @@
+src/server.ts
+  s_021c12b20a1c5e::t_96b769b92d5ba5 24,56-108,112-141,222
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "a647f2f006272bdffbaa1d3819696a9ee30cff39",
+  "prompts": {},
+  "sessions": {
+    "s_021c12b20a1c5e": {
+      "agent_id": {
+        "tool": "windsurf",
+        "id": "zany-bayberry",
+        "model": "unknown"
+      },
+      "human_author": "Nikhil <vnikhilbuddhavarapu@outlook.com>"
+    }
+  }
+}
