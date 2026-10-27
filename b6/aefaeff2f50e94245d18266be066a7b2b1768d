@@ -1,0 +1,103 @@
+.gitignore
+  s_021c12b20a1c5e::t_b234011cdfe1b4 1-10
+.oxfmtrc.json
+  s_021c12b20a1c5e::t_e0e21b61e1af51 1-5
+.oxlintrc.json
+  s_021c12b20a1c5e::t_007de693d3455a 1-9
+AGENTS.md
+  s_021c12b20a1c5e::t_734431e6a18451 1-69
+README.md
+  s_021c12b20a1c5e::t_cfdb8216dbcded 1-176
+env.d.ts
+  s_021c12b20a1c5e::t_7e34f082c259fb 1-47
+index.html
+  s_021c12b20a1c5e::t_b117de9061ffcb 1-13
+package-lock.json
+  s_021c12b20a1c5e::t_495f9b21ac1aec 1-10566
+package.json
+  s_021c12b20a1c5e::t_9e737a93cdd70c 1-51
+public/favicon.svg
+  s_021c12b20a1c5e::t_5a7bf9079131a4 1
+src/agent/system-one-agent.ts
+  s_021c12b20a1c5e::t_b77421808974c1 1-159
+src/app.ts
+  s_021c12b20a1c5e::t_f1467ee7ae2e53 1-30
+src/client.tsx
+  s_021c12b20a1c5e::t_6f5db6011dea5f 1-15
+src/env-shims.d.ts
+  s_021c12b20a1c5e::t_d54d6fa7434112 1-3
+src/intel/analysis.ts
+  s_021c12b20a1c5e::t_20a06a546fed5a 1-252
+src/intel/browser.ts
+  s_021c12b20a1c5e::t_5a908cb6168d7f 1-98
+src/styles.css
+  s_021c12b20a1c5e::t_7002c23a9923b3 1-79
+src/system-one/clairic.ts
+  s_021c12b20a1c5e::t_f51039cfa5ad7b 1-201
+src/system-one/clef.ts
+  s_021c12b20a1c5e::t_5e02a27c59024d 1-152
+src/system-one/run.ts
+  s_021c12b20a1c5e::t_498883f5818ef2 1-78
+src/system-one/trace.ts
+  s_021c12b20a1c5e::t_cc5ac37dcb499c 1-123
+src/ui/App.tsx
+  s_021c12b20a1c5e::t_dec99efa0fec10 1-232
+src/ui/Composer.tsx
+  s_021c12b20a1c5e::t_e3484b1d95fded 1-155
+src/ui/Message.tsx
+  s_021c12b20a1c5e::t_ac40846066329f 1-167
+src/ui/TracePanel.tsx
+  s_021c12b20a1c5e::t_0769945693131e 1-193
+src/ui/extensions.tsx
+  s_021c12b20a1c5e::t_12dc827a0f4d3f 1-98
+src/ui/primitives.tsx
+  s_021c12b20a1c5e::t_3b26d8cd89506e 1-82
+test/clairic.test.ts
+  s_021c12b20a1c5e::t_6495a788824bee 1-96
+test/clef.test.ts
+  s_021c12b20a1c5e::t_2534c40361c834 1-139
+test/helpers.ts
+  s_021c12b20a1c5e::t_996a6b837df027 1-22
+test/intel.test.ts
+  s_021c12b20a1c5e::t_4a5c0229cc150b 1-160
+test/trace.test.ts
+  s_021c12b20a1c5e::t_de0f1050f3b898 1-101
+tsconfig.json
+  s_021c12b20a1c5e::t_70d2de54eb4e41 1-4
+vite.config.ts
+  s_021c12b20a1c5e::t_624ccea447c502 1-9
+vitest.config.ts
+  s_021c12b20a1c5e::t_8fe59a1f42a51a 1-9
+wrangler.jsonc
+  s_021c12b20a1c5e::t_eb491253901b7a 1-30
+src/intel/demo-pages.ts
+  s_0a9b712c2fa5c2::t_7634671d4e9b04 1-67
+src/server.ts
+  s_0a9b712c2fa5c2::t_c3eb6e65010fbf 1-200
+src/shared.ts
+  s_0a9b712c2fa5c2::t_896eb5577a64c1 1-100
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "b6aefaeff2f50e94245d18266be066a7b2b1768d",
+  "prompts": {},
+  "sessions": {
+    "s_021c12b20a1c5e": {
+      "agent_id": {
+        "tool": "windsurf",
+        "id": "zany-bayberry",
+        "model": "unknown"
+      },
+      "human_author": "Nikhil <vnikhilbuddhavarapu@outlook.com>"
+    },
+    "s_0a9b712c2fa5c2": {
+      "agent_id": {
+        "tool": "devin",
+        "id": "s_0a9b712c2fa5c2",
+        "model": "unknown"
+      },
+      "human_author": "Nikhil <vnikhilbuddhavarapu@outlook.com>"
+    }
+  }
+}
